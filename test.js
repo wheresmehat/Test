@@ -10,6 +10,7 @@ var c = 2;
 
 var d = 200;
 
+var e = "str";
 
 console.log(a + b);
 
