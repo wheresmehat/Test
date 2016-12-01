@@ -14,3 +14,9 @@ var e = "str";
 
 console.log(a + b);
 
+function sum() {
+
+    return c + d;
+
+}
+
